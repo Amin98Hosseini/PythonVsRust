@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\html5ever-0.26.0\src/tree_builder/rules.rs

@@ -1,0 +1,10 @@
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\icu_normalizer-4cc2bdb358e156e5.d: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\properties.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\provider.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\uts46.rs
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\libicu_normalizer-4cc2bdb358e156e5.rlib: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\properties.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\provider.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\uts46.rs
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\libicu_normalizer-4cc2bdb358e156e5.rmeta: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\properties.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\provider.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\uts46.rs
+
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\lib.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\properties.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\provider.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\icu_normalizer-2.0.0\src\uts46.rs:

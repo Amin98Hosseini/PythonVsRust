@@ -1,0 +1,10 @@
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\lock_api-1fa8d661bc033702.d: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\mutex.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\remutex.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\rwlock.rs
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\liblock_api-1fa8d661bc033702.rlib: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\mutex.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\remutex.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\rwlock.rs
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\liblock_api-1fa8d661bc033702.rmeta: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\mutex.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\remutex.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\rwlock.rs
+
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\lib.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\mutex.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\remutex.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\lock_api-0.4.13\src\rwlock.rs:

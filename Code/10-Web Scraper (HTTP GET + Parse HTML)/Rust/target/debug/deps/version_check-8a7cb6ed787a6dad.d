@@ -1,0 +1,10 @@
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\version_check-8a7cb6ed787a6dad.d: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\version.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\channel.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\date.rs
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\libversion_check-8a7cb6ed787a6dad.rlib: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\version.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\channel.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\date.rs
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\libversion_check-8a7cb6ed787a6dad.rmeta: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\version.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\channel.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\date.rs
+
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\lib.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\version.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\channel.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\version_check-0.9.5\src\date.rs:

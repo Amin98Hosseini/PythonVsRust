@@ -1,0 +1,10 @@
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\siphasher-42fc3a30d859435d.d: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip128.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\../README.md
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\libsiphasher-42fc3a30d859435d.rlib: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip128.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\../README.md
+
+D:\RustVsPython\Code\10-Web Scraper (HTTP GET + Parse HTML)\Rust\target\debug\deps\libsiphasher-42fc3a30d859435d.rmeta: C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\lib.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip128.rs C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\../README.md
+
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\lib.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\sip128.rs:
+C:\Users\diatell\.cargo\registry\src\mirrors.ustc.edu.cn-5857e57f01837ef8\siphasher-1.0.1\src\../README.md:
