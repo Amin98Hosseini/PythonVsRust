@@ -87,3 +87,13 @@ This repo is a learning experiment to demonstrate how both languages handle comm
 ## 📌 Author
 
 Created by **Mohammad Amin** ✨
+
+## ☕ Support My Work
+
+<div class="support-section">
+    <h3>Support My Work</h3>
+    <p>Do you wanna buy me a coffee?</p>
+    <a href="https://www.coffeebede.com/amin98hosseini" target="_blank" class="support-btn">
+        ☕ Support on CoffeeBede
+    </a>
+</div>
