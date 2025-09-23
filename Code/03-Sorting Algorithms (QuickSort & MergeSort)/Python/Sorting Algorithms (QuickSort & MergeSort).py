@@ -44,9 +44,11 @@ if __name__ == "__main__":
     _sorted_quick = quicksort(arr1)
     duration_quick = (time.perf_counter() - start) * 1_000_000
     print(f"Python = QuickSort Runtime: {duration_quick:.2f} µs")
+    print(f"Python = QuickSort Result: {_sorted_quick[:5]} ,..., {_sorted_quick[99995:]} ")
 
     arr2 = arr.copy()
     start = time.perf_counter()
     _sorted_merge = mergesort(arr2)
     duration_merge = (time.perf_counter() - start) * 1_000_000
     print(f"Python = MergeSort Runtime: {duration_merge:.2f} µs")
+    print(f"Python = MergeSort Result: {_sorted_merge[:5]} ,..., {_sorted_merge[99995:]} ")
