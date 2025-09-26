@@ -1,5 +1,6 @@
 use rand::Rng;  
 use rand::rng;  
+use std::time::Instant;
 
 // QuickSort
 fn quicksort(arr: Vec<i32>) -> Vec<i32> {
@@ -54,7 +55,6 @@ fn merge(left: Vec<i32>, right: Vec<i32>) -> Vec<i32> {
     result
 }
 
-use std::time::Instant;
 
 fn main() {
     let size = 100000; 

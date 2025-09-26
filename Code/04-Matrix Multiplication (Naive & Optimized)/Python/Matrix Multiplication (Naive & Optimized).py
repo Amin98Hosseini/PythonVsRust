@@ -34,12 +34,14 @@ def main():
     _res1 = matmul_naive(a, b)
     dur1 = (time.perf_counter() - start) * 1e6
     print(f"python Naive Matrix Multiplication: {dur1:.2f} µs")
+    print(f"Result python Naive Matrix Multiplication: {_res1[1][1]} , {_res1[150][150]}")
 
     # Optimized version
     start = time.perf_counter()
     _res2 = matmul_optimized(a, b)
     dur2 = (time.perf_counter() - start) * 1e6
     print(f"python Optimized Matrix Multiplication: {dur2:.2f} µs")
+    print(f"Result python Optimized Matrix Multiplication: {_res2[1][1]} , {_res2[150][150]}")
 
 if __name__ == "__main__":
     main()

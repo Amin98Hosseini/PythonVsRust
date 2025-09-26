@@ -52,10 +52,12 @@ fn main() {
     let _res1 = matmul_naive(&a, &b);
     let dur1 = start.elapsed().as_micros();
     println!("Rust Naive Matrix Multiplication: {} µs", dur1);
+    println!("Result Rust Naive Matrix Multiplication: {} , {}", _res1[1][1] , _res1[150][150]);
 
     // Optimized
     let start = Instant::now();
     let _res2 = matmul_optimized(&a, &b);
     let dur2 = start.elapsed().as_micros();
     println!("Rust Optimized Matrix Multiplication: {} µs", dur2);
+    println!("Result Rust Optimized Matrix Multiplication: {} , {}", _res2[1][1] , _res2[150][150]);
 }
