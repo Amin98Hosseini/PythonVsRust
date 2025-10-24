@@ -31,7 +31,7 @@ fn word_count_optimized(filename: &str) -> usize {
 }
 
 fn main() {
-    let filename = r"D:\RustVsPython\Code\5-File ReadWrite & Word Count\Python\test_file.txt";
+    let filename = r"test_file.txt";
     let sample_text = "Hello world. This is a benchmark test for file I/O and word count.\n";
 
     // Write file

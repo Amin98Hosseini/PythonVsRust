@@ -24,25 +24,25 @@ def word_count_optimized(filename: str):
     return count
 
 def main():
-    filename = r"D:\RustVsPython\Code\5-File ReadWrite & Word Count\Python\test_file.txt"
+    filename = r"test_file.txt"
     sample_text = "Hello world. This is a benchmark test for file I/O and word count.\n"
     
     # Write file
     start = time.perf_counter()
     write_file(filename, sample_text, repeat=100000)  # ~5-10 MB
-    dur_write = (time.perf_counter() - start) * 1e6
+    dur_write = (time.perf_counter() - start) * 1e7
     print(f"File Write Time: {dur_write:.2f} µs")
 
     # Naive word count
     start = time.perf_counter()
     wc1 = word_count_naive(filename)
-    dur_naive = (time.perf_counter() - start) * 1e6
+    dur_naive = (time.perf_counter() - start) * 1e7
     print(f"Naive Word Count: {wc1} words, Time: {dur_naive:.2f} µs")
 
     # Optimized word count
     start = time.perf_counter()
     wc2 = word_count_optimized(filename)
-    dur_opt = (time.perf_counter() - start) * 1e6
+    dur_opt = (time.perf_counter() - start) * 1e7
     print(f"Optimized Word Count: {wc2} words, Time: {dur_opt:.2f} µs")
 
     os.remove(filename)
