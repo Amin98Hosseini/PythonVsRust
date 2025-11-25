@@ -1,1 +1,1 @@
-D:\RustVsPython\Code\7-Multithreading\ \ Concurrency\ (Sum\ of\ Numbers\ in\ Threads)\Rust\target\debug\Rust.exe: D:\RustVsPython\Code\7-Multithreading\ \ Concurrency\ (Sum\ of\ Numbers\ in\ Threads)\Rust\src\main.rs
+D:\RustVsPython\code\07-Multithreading\ \ Concurrency\ (Sum\ of\ Numbers\ in\ Threads)\Rust\target\debug\Rust.exe: D:\RustVsPython\code\07-Multithreading\ \ Concurrency\ (Sum\ of\ Numbers\ in\ Threads)\Rust\src\main.rs

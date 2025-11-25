@@ -27,7 +27,7 @@ fn main() {
     let start = Instant::now();
     let json_str = serde_json::to_string(&data).unwrap();
     let dur_ser = start.elapsed().as_micros();
-    println!("Serialization Time: {} µs, JSON size: {:.2} MB", dur_ser, json_str.len() as f64 / 1024.0 / 1024.0);
+    println!("Serialization Time: {} µs, JSON size: {:.2} MB", dur_ser, json_str.len() as f64 / 1024.0 / 10a24.0);
 
     // Deserialization
     let start = Instant::now();

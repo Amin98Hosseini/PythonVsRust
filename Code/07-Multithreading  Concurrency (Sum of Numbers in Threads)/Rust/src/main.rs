@@ -7,7 +7,7 @@ fn main() {
     let threads = 4;
     let chunk = n / threads;
 
-    // Channel برای جمع نتایج از هر thread
+    
     let (tx, rx) = mpsc::channel();
 
     // --- Threading (True multithreading) ---
@@ -39,12 +39,12 @@ fn main() {
         let tx_clone = tx.clone();
         let handle = thread::spawn(move || {
             let s: u64 = (t_start..=t_end).sum();
-            tx_clone.send(s).unwrap(); // ارسال نتیجه به channel
+            tx_clone.send(s).unwrap(); // Send To channel
         });
         handles_mp.push(handle);
     }
 
-    // جمع نتایج از channel
+    // Sum From channel
     let mut total_mp = 0;
     for _ in 0..threads {
         total_mp += rx.recv().unwrap();
