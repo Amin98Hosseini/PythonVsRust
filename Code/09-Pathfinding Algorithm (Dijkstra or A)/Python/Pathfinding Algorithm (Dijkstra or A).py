@@ -18,11 +18,11 @@ def dijkstra(graph, start):
     return dist
 
 def main():
-    n = 1000  # تعداد نودها
+    n = 1000  #Number of nodes 
     graph = [[] for _ in range(n)]
     import random
     for u in range(n):
-        for _ in range(10):  # هر نود 10 یال تصادفی
+        for _ in range(10):  
             v = random.randint(0, n-1)
             w = random.randint(1, 10)
             graph[u].append((v, w))

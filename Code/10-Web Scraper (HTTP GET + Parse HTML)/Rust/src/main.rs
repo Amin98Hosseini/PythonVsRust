@@ -4,7 +4,7 @@ use std::time::Instant;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    let url = "https://en.wikipedia.org/wiki/Rust_(programming_language)";
+    let url = "https://amin98hosseini.github.io/amin-techlab/";
 
     // --- HTTP GET ---
     let start = Instant::now();

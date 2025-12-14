@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 
 def main():
-    url = "https://en.wikipedia.org/wiki/Rust_(programming_language)"
+    url = "https://amin98hosseini.github.io/amin-techlab/"
 
     start = time.perf_counter()
     response = requests.get(url)
